@@ -1,0 +1,24 @@
+# Compilación
+*.o
+*.obj
+*.exe
+*.out
+
+# Archivos de depuración
+*.log
+*.dSYM/
+
+# Directorios de compilación
+/build/
+/cmake-build-debug/
+/Debug/
+/Release/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
